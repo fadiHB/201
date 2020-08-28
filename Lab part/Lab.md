@@ -3,4 +3,4 @@
 
 |  num  | Lab     Name      | note        | The link                       |
 | :---: |    :---:          |    :----:   |   :---:                        |
-| 1     | lab :0x           | Title       | [GitHub](http://github.com)    |
+| 1     | lab :xx           | Title       | [GitHub](http://github.com)    |
